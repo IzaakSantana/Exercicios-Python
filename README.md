@@ -10,9 +10,4 @@ Ainda não terminei todos os exercícios do curso e ainda vou comentar todos os 
     <li>[Canal do Curso em Vídeo](https://www.youtube.com/cursoemvideo)
 </ul>
 
-
-
-
-
-
-
+[Canal do Curso em Vídeo](https://www.youtube.com/cursoemvideo)
