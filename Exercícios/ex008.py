@@ -1,6 +1,6 @@
-# Algoritmo pra converter metro em centímetro e centímetro em milímetro.
-# 1m tem 100 cm. 1cm tem  1 milímetro
-# muito avançado pra mim '-'
+# Desafio:
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
 M = float(input('Digite uma distância em metros: '))
 cm = M * 100
 mm = M * 1000

@@ -2,8 +2,6 @@
 
 Exercícios que fiz durante o curso de Python 3 no Curso em Vídeo.
 
-Ainda não terminei todos os exercícios do curso e ainda vou comentar todos os códigos.
-
 ## Links
 
  - [Canal do Curso em Vídeo](https://www.youtube.com/cursoemvideo)

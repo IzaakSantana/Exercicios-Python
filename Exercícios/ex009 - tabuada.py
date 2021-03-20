@@ -1,4 +1,6 @@
-# tabuada de um número inteiro.
+# Desafio:
+# Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+# Obs: Não havia aprendido estruturas de repetição ainda.
 
 N = int(input('Deseja saber a tabuada de qual número? '))
 print('-' * 15)

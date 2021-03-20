@@ -1,4 +1,6 @@
-# Algoritmo pra calcular a média de um aluno.
+# Desafio:
+# Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
 N1 = float(input('Digite a primeira nota: '))
 N2 = float(input('Digite a segunda nota: '))
 M = (N1 + N2) / 2

@@ -1,4 +1,6 @@
-# Algoritmo pra ler um número e mostrar o dobro, triplo e a raiz quadrada.
+# Desafio:
+# Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+
 N = int(input('Digite um número: '))
 
 print('{:=^10}'.format(N))

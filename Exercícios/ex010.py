@@ -1,4 +1,5 @@
-# Dólar: 3.86 - Euro: 4.31 Bitcoin: 34829.86
+# Desafio:
+# Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 
 reais = float(input('Quantos reais você tem? R$'))
 cotacaoD = float(input('Qual o valor do dólar atual? '))
