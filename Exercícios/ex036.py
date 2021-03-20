@@ -1,0 +1,15 @@
+titulo = str('Financiamento Bancário')
+print('=' * 35)
+print('{:^35}'.format(titulo))
+print('=' * 35)
+print()
+casa = float(input('Qual o valor da casa? R$'))
+sal = float(input('Qual é o salário do comprador? R$'))
+anos = int(input('Quantos anos de financiamento? '))
+print()
+pres = casa / (anos * 12)
+if pres > (sal * 30 / 100):
+    print('\033[31mO impréstimo foi negado!\033[33m \nVocê não tem condições de financiar esssa casa.')
+else:
+    print('\033[32mEmpréstimo autorizado!')
+print('\033[33mO valor da prestação mensal é R${:.2f}'.format(pres))

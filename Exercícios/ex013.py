@@ -1,0 +1,8 @@
+print('-' * 50)
+nomef = input('Qual o nome do funcionário? ')
+salario = float(input('Qual é o salário de {}? R$'.format(nomef)))
+aumento = int(input('Quanto % de aumento? '))
+novoS = salario + (salario * aumento / 100)
+print('-' * 50)
+print('Funcionário: {}\nSalário anterior: {:.2f}\nAumento: {}%\nNovo salário: {:.2f}'.format(nomef, salario, aumento, novoS))
+print('-' * 50)
