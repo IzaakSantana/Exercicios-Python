@@ -1,5 +1,3 @@
-# desisto
-
 frase = str(input('Digite uma frase: ')).strip().upper().split()
 frasej = ''.join(frase)  # junta a frase separada
 fraseL = []  # lista vazia

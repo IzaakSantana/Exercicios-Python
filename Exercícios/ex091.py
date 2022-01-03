@@ -12,6 +12,7 @@ ranking = list()
 for c in range(1, 5):
     jogadores[f'jogador{c}'] = randint(1, 6)
 
+
 print('Valores sorteados:')
 
 for chave, valor in jogadores.items():
